@@ -1,0 +1,7 @@
+Bisher implementiert:
+ - CPU: funktioniert größtenteils, interrupt handling fehlt, timings
+   sind noch sehr falsch
+ - Memory: die Behandlung vieler spezieller Speicherstellen fehlt noch
+   (z.B. interrupts).
+ - GPU: Zeichnen von Hintergründen funktioniert schon, Rest noch nicht
+ - Cart: bisher nur Carts ohne Memory Banks
